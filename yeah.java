@@ -19,6 +19,7 @@ public class Main {
             }
         }
 
+
         if (!flag)
             System.out.println(num + " is a prime number.");
         else
